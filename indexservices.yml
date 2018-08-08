@@ -1,3 +1,6 @@
-cronexp:
-  inv: 0 51 11 * * ?
-  servicecontract: 0 30 13 * * ?
+cronexpression:
+  invoice: 0 51 11 * * ?
+  servicecontract: 0 0 17 * * ?
+  partsorder: 0 0 15 * * ?
+  installations: 0 0/1 * 1/1 * ?
+  equipment: 0 0 16 * * ?

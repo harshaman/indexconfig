@@ -1,2 +1,3 @@
 cronexp:
   inv: 0 51 11 * * ?
+  servicecontract: 0 30 13 * * ?

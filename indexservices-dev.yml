@@ -1,0 +1,6 @@
+cronexpression:
+  invoice: 0 51 18 * * ?
+  servicecontract: 0 45 18 * * ?
+  partsorder: 0 30 18 * * ?
+  installations: 0 0/5 * 1/1 * ?
+  equipment: 0 0 19 * * ?
